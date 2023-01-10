@@ -131,13 +131,6 @@ button{
     font-size: larger;
 }
 
-.contact{
-    color:aliceblue;
-    font-size: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding-bottom: 10px;
-    border-left: 400px;
-}
 
 .foot{
     display: flex;
@@ -149,10 +142,18 @@ button{
     font-size: 24px;
     margin: 10px;
     padding-top: 20px;
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .social{
     margin: 10px;
 }
 
+p.contact{
+    padding-left: 200px;
+    font-size: 24px;
+    color:aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
