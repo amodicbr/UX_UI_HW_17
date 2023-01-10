@@ -22,10 +22,14 @@ li{
     font-weight: 400;
 }
 
+
 body{
     background-color: #081151 ;
 }
 
+hr {
+    color:#e555a2;
+}
 
 .containerGrid{
     color:aliceblue;
@@ -127,7 +131,28 @@ button{
     font-size: larger;
 }
 
+.contact{
+    color:aliceblue;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 10px;
+    border-left: 400px;
+}
 
+.foot{
+    display: flex;
+    align-content: flex-start;
+    justify-content: flex-start;
+}
 
+.footer{
+    font-size: 24px;
+    margin: 10px;
+    padding-top: 20px;
+}
+
+.social{
+    margin: 10px;
+}
 
 
